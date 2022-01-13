@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADo.NET AddressBook", "ADo.NET AddressBook\ADo.NET AddressBook.csproj", "{A34B4BDA-BB51-4E1F-8E35-72C90E6B717C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34B4BDA-BB51-4E1F-8E35-72C90E6B717C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34B4BDA-BB51-4E1F-8E35-72C90E6B717C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34B4BDA-BB51-4E1F-8E35-72C90E6B717C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34B4BDA-BB51-4E1F-8E35-72C90E6B717C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF2C4E5B-299B-4DEF-A226-56FA2CE57A6F}
+	EndGlobalSection
+EndGlobal
